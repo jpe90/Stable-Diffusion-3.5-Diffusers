@@ -1,0 +1,9 @@
+diffusers
+torch
+transformers
+accelerate
+ipykernel
+ipywidgets
+protobuf==3.20.1
+sentencepiece
+bitsandbytes
